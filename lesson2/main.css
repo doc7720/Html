@@ -1,0 +1,101 @@
+*{
+    margin: 0;
+}
+.block {
+    height: 1700px;
+    background-color: gainsboro;
+    padding: 50px;
+}
+.squares_one {
+    background-color: orange;
+    width: 200px;
+    height: 200px;
+    margin: 70px 0 70px 0;
+    border: 2px solid black;
+    box-shadow: #504343 20px 20px 0px 0px;
+}
+.squares_two {
+    background-color: orange;
+    width: 200px;
+    height: 200px;
+    margin: 70px 0 70px 0;
+    border: 2px solid black;
+    box-shadow: #504343 20px 20px 5px 5px;
+}
+.squares_three {
+    background-color: orange;
+    width: 200px;
+    height: 200px;
+    margin: 70px 0 70px 0;
+    border: 2px solid black;
+    box-shadow: #504343 20px 20px 5px 15px;
+}
+.squares_four {
+    background-color: orange;
+    width: 200px;
+    height: 200px;
+    margin: 70px 0 70px 0;
+    border: 2px solid black;
+    box-shadow: gray 20px 20px 5px 15px;
+}
+.squares_five {
+    background-color: orange;
+    width: 200px;
+    height: 200px;
+    margin: 70px 0 70px 0;
+    border-radius: 10px;
+    border: 2px solid black;
+    box-shadow: #504343 20px 20px 5px 5px;
+}
+.squares_six {
+    background-color: orange;
+    width: 200px;
+    height: 200px;
+    margin: 70px 0 70px 0;
+    border-radius: 10px;
+    border: 2px solid black;
+    box-shadow: gray 20px 20px 5px 5px;
+}
+.text {
+    text-align: center;
+    padding-top: 90px;
+    margin: -5px 0 -5px 0;
+}
+.head {
+    height: 50px;
+    background-color: #8a2928;
+    text-align: center;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+.text_second {
+    padding-top: 5px;
+    color: #fbeada;
+}
+.second {
+    height: 80px;
+    background-color: #c0c0c0;
+}
+.text_third {
+    text-align: center;
+    padding: 30px;
+}
+.head_second {
+    height: 100px;
+    background-color: #6496ec;
+}
+.text_four {
+    padding: 30px 30px 30px 0;
+}
+.head_third {
+    height: 200px;
+    width: 200px;
+    background-color: #6cbb68;
+}
+.head_five {
+    height: 200px;
+    width: 200px;
+    background-color: #8987ac;
+    border-radius: 20px;
+    margin-bottom: 20px;
+}
