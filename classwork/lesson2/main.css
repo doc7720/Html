@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+}
+.head {
+    background-color: black;
+    width: 1520px;
+    height: 710px;
+}
+
+.background {
+    /*margin-left: 670px;*/
+    /*margin-top: 50px;*/
+}
+.first_bottom {
+    height: 70px;
+    width: 200px;
+    background-color: #ff6f1f;
+}
+.second_bottom {
+    height: 70px;
+    width: 200px;
+    background-color: #2efff2;
+}
+.third_bottom {
+    height: 70px;
+    width: 200px;
+    background-color: #ff55a7;
+}
+.four_bottom {
+    height: 70px;
+    width: 200px;
+    background-color: #ff4040;
+}
+.text {
+    text-align: center;
+    padding-top: 23px;
+}
