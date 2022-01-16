@@ -1,0 +1,62 @@
+#container {
+    height: 700px;
+    width: 420px;
+    margin-left: 550px;
+}
+.first_block {
+    height: 300px;
+    width: 200px;
+    background: #246abc;
+}
+.second_block {
+    height: 300px;
+    width: 200px;
+    background: #246abc;
+}
+.first_part {
+    display: flex;
+    justify-content: space-between;
+}
+.second_part {
+    width: 420px;
+    height: 200px;
+    background: #246abc;
+}
+.one {
+    width: 128px;
+    height: 150px;
+    background: #18467b;
+}
+.two {
+    width: 128px;
+    height: 150px;
+    background: #18467b;
+}
+.three {
+    width: 128px;
+    height: 150px;
+    background: #18467b;
+}
+.third_part {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 16px;
+}
+.text {
+    color: white;
+    text-align: center;
+    padding-top: 110px;
+    font-size: 20px;
+}
+.text_2 {
+    color: white;
+    text-align: center;
+    padding-top: 90px;
+    font-size: 20px;
+}
+.text_3 {
+    color: white;
+    text-align: center;
+    padding-top: 50px;
+    font-size: 15px;
+}
