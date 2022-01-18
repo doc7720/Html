@@ -1,0 +1,43 @@
+#container {
+    width: 500px;
+    height: 700px;
+    margin-left: 500px;
+    text-align: center;
+    font-size: 20px;
+}
+.header {
+    width: 497px;
+    height: 150px;
+}
+.post {
+    width: 222px;
+    height: 170px;
+}
+.menu {
+    width: 300px;
+    height: 354px;
+    margin-right: 10px;
+}
+.block {
+    display: flex;
+    flex-direction: row-reverse;
+}
+.footer {
+    height: 160px;
+    width: 497px;
+}
+.bgc1-4 {
+    background-color: #ffffca;
+}
+.bgc2 {
+    background-color: #ffb8ff;
+}
+.bgc3 {
+    background-color: #a0e2ff;
+}
+.br {
+    border: 2px solid black;
+}
+.mb {
+    margin-bottom: 10px;
+}
