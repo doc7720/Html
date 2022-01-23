@@ -1,0 +1,176 @@
+* {
+    margin: 0;
+}
+
+#container {
+    margin-left: 400px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    width: 700px;
+    border: 5px solid black;
+}
+
+.first {
+    height: 100px;
+    width: 700px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border-bottom: 5px solid black;
+}
+
+.one {
+    height: 50px;
+    width: 150px;
+    background: #e7e7e8;
+}
+
+.two {
+    height: 50px;
+    width: 150px;
+    background: #e7e7e8;
+}
+
+.start {
+    display: flex;
+    justify-content: start;
+    margin-left: 20px;
+}
+
+.end {
+    display: flex;
+    justify-content: end;
+    margin-right: 20px;
+}
+
+.second {
+    height: 1160px;
+    width: 200px;
+    padding-left: 25px;
+    padding-right: 25px;
+    border-right: 5px solid black;
+}
+
+.box1 {
+    height: 50px;
+    width: 150px;
+    background: #e7e7e8;
+    margin-bottom: 10px;
+    margin-top: 20px;
+}
+
+.third {
+    width: 500px;
+    height: 300px;
+    padding-top: 45px;
+}
+
+.second_third {
+    display: flex;
+}
+
+.three {
+    width: 420px;
+    height: 250px;
+    background: #e7e7e8;
+    margin: 0 auto;
+}
+
+.four {
+    width: 500px;
+    height: 100px;
+    display: flex;
+    justify-content: space-evenly;
+    border-bottom: 5px solid black;
+    border-top: 5px solid black;
+}
+
+.box2 {
+    width: 80px;
+    height: 50px;
+    background: #e7e7e8;
+    margin-top: 26px;
+}
+
+.five {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.box3 {
+    height: 60px;
+    width: 90px;
+    background: #e7e7e8;
+    margin-top: 20px;
+    margin-left: 30px;
+}
+
+.five1 {
+    width: 180px;
+}
+
+.five2 {
+    width: 180px;
+}
+
+.five_end {
+    height: 20px;
+    width: 50px;
+    background: #e7e7e8;
+    margin: 20px auto;
+}
+
+.six {
+    width: 200px;
+    height: 530px;
+    border-left: 5px solid black;
+}
+
+.box4 {
+    width: 150px;
+    height: 40px;
+    background: #e7e7e8;
+    margin-left: 20px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+
+.seven {
+    width: 500px;
+    height: 140px;
+    padding-top: 30px;
+    border-top: 5px solid black;
+}
+
+.box5 {
+    width: 450px;
+    height: 70px;
+    background: #e7e7e8;
+    margin-left: 23px;
+}
+
+.box6 {
+    width: 80px;
+    height: 20px;
+    background: #e7e7e8;
+    margin: 25px auto;
+}
+
+.head {
+    display: flex;
+    flex-direction: column;
+}
+
+.header {
+    display: flex;
+
+}
+
+.fifth_sixth {
+    display: flex;
+}
+
+.five_box {
+    height: 530px;
+    width: 300px;
+}
