@@ -1,0 +1,15 @@
+.head {
+    text-align: center;
+    color: blue;
+    font-size: 50px;
+}
+
+.text {
+    font-size: 20px;
+    background-color: chartreuse;
+}
+
+.second_head {
+    font-size: 30px;
+    color: blue;
+}
